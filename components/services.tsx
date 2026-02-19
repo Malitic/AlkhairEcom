@@ -21,42 +21,40 @@ type Service = {
 const mainServices: Service[] = [
   {
     icon: Video,
-    title: "ONLINE SELLING / STREAMING",
-    description: `Our Live Selling / Streaming service brings your brand to life in real time.
-
-We turn ordinary product showcases into exciting, interactive shopping experiences where customers can watch, engage, ask questions, and buy instantly.
-
-Interactive live selling that boosts engagement, drives instant purchases, and turns viewers into loyal customers.`
+    title: "ONLINE SELLING / STREAMING SOLUTIONS",
+    description: `Our Live Selling / Streaming service brings your brand to life in real time! We turn ordinary product showcases into exciting,
+     interactive shopping experiences where customers can watch, engage, ask questions, and buy instantly.
+    It’s fast, dynamic, and built to capture attention helping you boost sales, grow your online presence, and turn viewers into loyal fans.`
   },
   {
     icon: Globe,
-    title: "WEBSITE DEVELOPMENT",
-    description: `We build powerful, high-converting websites that don’t just look good — they work hard for your business.
+    title: "WEBSITE DESIGN & DEVELOPMENT",
+    description: `We build powerful, high-converting websites that don’t just look good, they work hard for your business.
 
-Fast, mobile-friendly, and sales-driven websites that turn visitors into customers and elevate your brand online.`
+ From sleek design to seamless user experience, we create fast, mobile-friendly, and sales-driven websites that turn visitors into customers and elevate your brand online.`
   },
   {
     icon: User,
-    title: "SOCIAL MEDIA MANAGEMENT & PAID ADS",
-    description: `We create scroll-stopping content, manage your platforms strategically, and run high-performing paid ads.
-
-More engagement. More leads. More sales.`
+    title: "SOCIAL MEDIA MANAGEMENT & PAID ADS (DIGITAL MANAGEMENT)",
+    description: `We create scroll-stopping content, manage your platforms strategically, and run high-performing paid ads that reach the right audience at the right time. 
+        More engagement, more leads, more sales that’s the goal.`
   },
   {
     icon: Warehouse,
     title: "FULFILLMENT & CUSTOMER SUPPORT",
     description: `We handle order processing, coordination, and responsive customer support to ensure every buyer has a seamless experience.
-
-Fast, reliable, and customer-focused service that builds trust and repeat business.`
+     Fast, reliable, and customer-focused we help you build trust and repeat business.`
   },
   {
     icon: Film,
     title: "CREATIVE CONTENT & PRODUCT SHOOTS",
-    description: `Professional product photography and engaging videos that capture attention, build credibility, and drive conversions.`
+    description: `Bring your brand to life with Alkhair PH’s creative content and professional product shoots.
+     From eye-catching visuals to engaging videos, we produce high-quality content that captures attention, builds credibility, and drives conversions.
+`
   },
   {
     icon: BarChart3,
-    title: "ANALYTICS, INSIGHTS & BUSINESS INTELLIGENCE",
+    title: "ANALYTICS, INSIGHTS & BUSINESS INTELLIGENCE (DIGITAL MANAGEMENT)",
     description: `We turn data into direction.
 
 Clear insights, measurable growth, and smarter decisions backed by real numbers so you can scale with confidence.`

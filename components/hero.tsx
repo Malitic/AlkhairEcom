@@ -9,7 +9,7 @@ const slides = [
     title: "PREMIER LIVE SELLING AGENCY IN THE PHILIPPINES",
     subtitle:
       "Driving sales on TikTok, Shopee and Lazada through dynamic, interactive events",
-    image: "/Clients/live1.png",
+    image: "/Clients/Logo.png",
   },
   {
     title: "END-TO-END ECOMMERCE & LIVESTREAMING SOLUTIONS",

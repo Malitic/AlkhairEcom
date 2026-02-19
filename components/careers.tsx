@@ -43,15 +43,16 @@ const leaders: Leader[] = [
 ]
 
 const teamMembers: string[] = [
-  "/team1.jpg",
-  "/team2.jpg",
-  "/team3.jpg",
-  "/team4.jpg",
-  "/team5.jpg",
-  "/team6.jpg",
+  "/Clients/icons.png",
+  "/Clients/icons.png",
+  "/Clients/icons.png",
+  "/Clients/icons.png",
+  "/Clients/icons.png",
+  "/Clients/icons.png",
+  "/Clients/icons.png",
+  "/Clients/icons.png",
+  "/Clients/icons.png",
 ]
-
-/* ================= COMPONENT ================= */
 
 export function Careers() {
 
