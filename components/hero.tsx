@@ -83,14 +83,7 @@ export function Hero() {
             ))}
           </div>
 
-          <Button
-            size="lg"
-            className="bg-white text-black hover:bg-gray-200 font-semibold px-8 py-6 text-lg"
-          >
-            LEARN MORE
-          </Button>
-
-          <div className="flex items-center justify-center gap-4 mt-12">
+          <div className="flex items-center justify-center gap-5 mt-16">
             <Button
               variant="ghost"
               size="icon"

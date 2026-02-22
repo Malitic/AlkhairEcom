@@ -8,7 +8,7 @@ const _geist = Geist({ subsets: ["latin"] });
 const _geistMono = Geist_Mono({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: 'Alkhair eCommerce Services | Premier Live Selling Agency',
+  title: 'Alkhair PH | Premier Live Selling Agency',
   description: 'Premier live selling agency in the Philippines - eCommerce and livestreaming solutions for Lazada, Shopee, and TikTok',
   generator: '',
 }
